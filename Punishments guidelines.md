@@ -4,11 +4,11 @@ This is a guide to punishing users on the Shatter discord server and in the Shat
 
 ## Extreme harm
 
-In the case of extreme harm (e.g. a lot of discrimination, suspected of being a hate bot) the user is banned immediately.
+In the case of extreme harm (e.g. direct discrimination, hate, suspected of being bot) the user is banned immediately.
 
 ## Reasonable harm
 
-If someone is taking an action that might or possibily might cause reasonable harm to someone (e.g. hurting fellings, discrimination in a way that may be recoverable), these actions should be followed.
+If someone is taking an action that might or possibily might cause reasonable harm to someone (e.g. hurting feelings, trolling in a way that approaches discrimination), these actions should be followed.
 
 | Order | Mute | Kick | Ban |
 | -- | -- | -- | -- |
