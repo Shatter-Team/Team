@@ -1,6 +1,6 @@
 # Room Contest Guidelines
 
-Shatter Room Contests (or whatever title is actually chosen) should typically be quick, themed contests for a single room done in about one week that is fair to the creators.
+**Official Shatter Room Contests** should typically be quick, themed contests for a single room done in about one week that is fair to the creators.
 
 ## Guidelines
 
@@ -10,6 +10,7 @@ Shatter Room Contests (or whatever title is actually chosen) should typically be
 * The winner of the previous room contest should not be able to submit in the next contest.
   * However, they may submit again after the next one.
 * Submissions can be modififed later as long as it is within the deadline.
+* Creators can help each other, ask for feedback and integrate it into their rooms.
 * Only rooms created entirely during the time of the contest can be submitted.
 * Creators must agree to have their mod included in a compilation mod and one must be made.
 * There should be at least a month (30 days) of time between two room contests.
