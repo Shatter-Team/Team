@@ -6,13 +6,14 @@
 
 * Room contests should take at most a week from the start until the end.
   * There shall be no time extensions without the consent of everyone who has previously submitted.
-* Voting should be done entirely by people.
 * The winner of the previous room contest should not be able to submit in the next contest.
   * However, they may submit again after the next one.
 * Submissions can be modififed later as long as it is within the deadline.
 * Creators can help each other, ask for feedback and integrate it into their rooms.
 * Only rooms created entirely during the time of the contest can be submitted.
 * Creators must agree to have their mod included in a compilation mod and one must be made.
+* Winners should be determined by voting from people.
+* Votes should be open for at least 3 days.
 * There should be at least a month (30 days) of time between two room contests.
 
 ### Optional extra guidelines
